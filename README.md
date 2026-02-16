@@ -1,6 +1,7 @@
 # Logseq Text Expander
 
-A robust, production-ready text expander plugin for Logseq. Automatically replaces predefined triggers with longer text snippets as you type.
+A functional, opinionated text expander plugin for Logseq. Automatically replaces predefined triggers with longer text snippets as you type.
+This comes with no guarantees. I just created it for my personal need. Use it at your own risk.
 
 ## Features
 
