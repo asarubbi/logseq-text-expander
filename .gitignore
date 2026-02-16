@@ -1,0 +1,29 @@
+# Node
+node_modules
+*.log*
+
+# Logseq Plugin
+dist
+.logseq
+test-vault
+
+# IDEs
+.idea
+.vscode
+
+# OS generated files
+.DS_Store
+.Trash
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Build artifacts
+build
+*.tgz
+
+# Gemini specific
+.geminiignore
+GEMINI.md
